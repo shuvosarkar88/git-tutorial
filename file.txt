@@ -3,3 +3,4 @@ currently i ma learning git
 
 this file was created after pushing master branch to origin(remote repository).
 
+** sometime the most difficult part is understanding the task not the solving problem **
